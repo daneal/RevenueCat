@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>4E1647D4-0017-453B-935E-8C05FBD95501</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4E1647D4-0017-453B-935E-8C05FBD95501.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Purchases project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Purchases</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Purchases</string>
+			<key>timeStartedRecording</key>
+			<real>577225807.58415997</real>
+			<key>timeStoppedRecording</key>
+			<real>577225814.66960394</real>
+			<key>title</key>
+			<string>Build Purchases</string>
+			<key>uniqueIdentifier</key>
+			<string>4E1647D4-0017-453B-935E-8C05FBD95501</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
