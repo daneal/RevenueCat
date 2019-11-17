@@ -1,19 +1,19 @@
 dependencies: \
-  /Users/davidneal/Development/GenSearch/RevenueCat/Purchases/Public/RCPurchases.m \
-  /Users/davidneal/Development/GenSearch/RevenueCat/Build/Intermediates/Purchases.build/Debug/Purchases.build/module.modulemap \
-  /Users/davidneal/Development/GenSearch/RevenueCat/Purchases/Public/RCPurchases.h \
-  /Users/davidneal/Development/GenSearch/RevenueCat/Purchases/Public/RCEntitlement.h \
-  /Users/davidneal/Development/GenSearch/RevenueCat/Purchases/RCPurchases+Protected.h \
-  /Users/davidneal/Development/GenSearch/RevenueCat/Purchases/RCStoreKitRequestFetcher.h \
-  /Users/davidneal/Development/GenSearch/RevenueCat/Purchases/RCBackend.h \
-  /Users/davidneal/Development/GenSearch/RevenueCat/Purchases/RCStoreKitWrapper.h \
-  /Users/davidneal/Development/GenSearch/RevenueCat/Purchases/RCPurchaserInfo+Protected.h \
-  /Users/davidneal/Development/GenSearch/RevenueCat/Purchases/Public/RCPurchaserInfo.h \
-  /Users/davidneal/Development/GenSearch/RevenueCat/Purchases/RCUtils.h \
-  /Users/davidneal/Development/GenSearch/RevenueCat/Purchases/NSLocale+RCExtensions.h \
-  /Users/davidneal/Development/GenSearch/RevenueCat/Purchases/RCCrossPlatformSupport.h \
-  /Users/davidneal/Development/GenSearch/RevenueCat/Purchases/RCOffering+Protected.h \
-  /Users/davidneal/Development/GenSearch/RevenueCat/Purchases/Public/RCOffering.h \
-  /Users/davidneal/Development/GenSearch/RevenueCat/Purchases/Public/RCPurchasesErrors.h \
-  /Users/davidneal/Development/GenSearch/RevenueCat/Purchases/Public/RCPurchasesErrorUtils.h \
-  /Users/davidneal/Development/GenSearch/RevenueCat/Purchases/RCReceiptFetcher.h
+  /Users/davidneal/Development/RevenueCat/Purchases/Public/RCPurchases.m \
+  /Users/davidneal/Development/RevenueCat/Build/Intermediates/Purchases.build/Debug/Purchases.build/module.modulemap \
+  /Users/davidneal/Development/RevenueCat/Purchases/Public/RCPurchases.h \
+  /Users/davidneal/Development/RevenueCat/Purchases/Public/RCEntitlement.h \
+  /Users/davidneal/Development/RevenueCat/Purchases/RCPurchases+Protected.h \
+  /Users/davidneal/Development/RevenueCat/Purchases/RCStoreKitRequestFetcher.h \
+  /Users/davidneal/Development/RevenueCat/Purchases/RCBackend.h \
+  /Users/davidneal/Development/RevenueCat/Purchases/RCStoreKitWrapper.h \
+  /Users/davidneal/Development/RevenueCat/Purchases/RCPurchaserInfo+Protected.h \
+  /Users/davidneal/Development/RevenueCat/Purchases/Public/RCPurchaserInfo.h \
+  /Users/davidneal/Development/RevenueCat/Purchases/RCUtils.h \
+  /Users/davidneal/Development/RevenueCat/Purchases/NSLocale+RCExtensions.h \
+  /Users/davidneal/Development/RevenueCat/Purchases/RCCrossPlatformSupport.h \
+  /Users/davidneal/Development/RevenueCat/Purchases/RCOffering+Protected.h \
+  /Users/davidneal/Development/RevenueCat/Purchases/Public/RCOffering.h \
+  /Users/davidneal/Development/RevenueCat/Purchases/Public/RCPurchasesErrors.h \
+  /Users/davidneal/Development/RevenueCat/Purchases/Public/RCPurchasesErrorUtils.h \
+  /Users/davidneal/Development/RevenueCat/Purchases/RCReceiptFetcher.h

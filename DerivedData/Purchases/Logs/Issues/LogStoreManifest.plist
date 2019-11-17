@@ -6,31 +6,33 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>B0AA6090-398F-4E82-9C27-C6B70EA92D64</key>
+		<key>65FF3FEC-6D0D-4602-821A-382955EF2DFA</key>
 		<dict>
 			<key>className</key>
-			<string>IDEActivityLogSection</string>
+			<string>IDEActivityLogMajorGroupSection</string>
 			<key>documentTypeString</key>
 			<string>&lt;nil&gt;</string>
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.framework</string>
 			<key>fileName</key>
-			<string>B0AA6090-398F-4E82-9C27-C6B70EA92D64.xcactivitylog</string>
+			<string>65FF3FEC-6D0D-4602-821A-382955EF2DFA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
 				<string>S</string>
 			</dict>
 			<key>signature</key>
-			<string>Purchases-bjnrzlgxkqzhscaaqrvtfbellbii</string>
+			<string>Purchases-ajimthprludsxddtmnflguqhzntr</string>
 			<key>timeStartedRecording</key>
-			<real>577225807.62042105</real>
+			<real>595657790.32684302</real>
 			<key>timeStoppedRecording</key>
-			<real>577225814.65514004</real>
+			<real>595657791.44923401</real>
 			<key>title</key>
 			<string>Build target Purchases</string>
 			<key>uniqueIdentifier</key>
-			<string>B0AA6090-398F-4E82-9C27-C6B70EA92D64</string>
+			<string>65FF3FEC-6D0D-4602-821A-382955EF2DFA</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>

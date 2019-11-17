@@ -1,4 +1,4 @@
 dependencies: \
-  /Users/davidneal/Development/GenSearch/RevenueCat/Purchases/Public/RCIntroEligibility.m \
-  /Users/davidneal/Development/GenSearch/RevenueCat/Build/Intermediates/Purchases.build/Debug/Purchases.build/module.modulemap \
-  /Users/davidneal/Development/GenSearch/RevenueCat/Purchases/Public/RCIntroEligibility.h
+  /Users/davidneal/Development/RevenueCat/Purchases/Public/RCIntroEligibility.m \
+  /Users/davidneal/Development/RevenueCat/Build/Intermediates/Purchases.build/Debug/Purchases.build/module.modulemap \
+  /Users/davidneal/Development/RevenueCat/Purchases/Public/RCIntroEligibility.h
