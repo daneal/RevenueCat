@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>08893EB1-3A75-449B-BD2B-ECADF8F0E3A4</key>
+		<key>049858E8-5854-4A55-ACFF-E7F2A01D4F75</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,75 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>08893EB1-3A75-449B-BD2B-ECADF8F0E3A4.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Purchases project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Purchases</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Purchases</string>
-			<key>timeStartedRecording</key>
-			<real>595657782.31130004</real>
-			<key>timeStoppedRecording</key>
-			<real>595657782.34602594</real>
-			<key>title</key>
-			<string>Build Purchases</string>
-			<key>uniqueIdentifier</key>
-			<string>08893EB1-3A75-449B-BD2B-ECADF8F0E3A4</string>
-		</dict>
-		<key>396D6F89-CBC6-40A7-B74C-FC0D34A5D627</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>396D6F89-CBC6-40A7-B74C-FC0D34A5D627.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Purchases project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Purchases</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Purchases</string>
-			<key>timeStartedRecording</key>
-			<real>595658344.57669902</real>
-			<key>timeStoppedRecording</key>
-			<real>595658344.68058395</real>
-			<key>title</key>
-			<string>Build Purchases</string>
-			<key>uniqueIdentifier</key>
-			<string>396D6F89-CBC6-40A7-B74C-FC0D34A5D627</string>
-		</dict>
-		<key>659AD923-AE60-417F-9F3D-C0670E9F2840</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>659AD923-AE60-417F-9F3D-C0670E9F2840.xcactivitylog</string>
+			<string>049858E8-5854-4A55-ACFF-E7F2A01D4F75.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -100,81 +32,13 @@
 			<key>signature</key>
 			<string>Clean Purchases</string>
 			<key>timeStartedRecording</key>
-			<real>595657787.20676994</real>
+			<real>595659344.50624001</real>
 			<key>timeStoppedRecording</key>
-			<real>595657787.251899</real>
+			<real>595659344.54663599</real>
 			<key>title</key>
 			<string>Clean Purchases</string>
 			<key>uniqueIdentifier</key>
-			<string>659AD923-AE60-417F-9F3D-C0670E9F2840</string>
-		</dict>
-		<key>9243BB36-5662-4F04-ADB9-8786898608CB</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>9243BB36-5662-4F04-ADB9-8786898608CB.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Purchases project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Purchases</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Purchases</string>
-			<key>timeStartedRecording</key>
-			<real>595657790.23600399</real>
-			<key>timeStoppedRecording</key>
-			<real>595657791.46075201</real>
-			<key>title</key>
-			<string>Build Purchases</string>
-			<key>uniqueIdentifier</key>
-			<string>9243BB36-5662-4F04-ADB9-8786898608CB</string>
-		</dict>
-		<key>F1B24EF3-EF05-428F-B3BE-0C7C830F73D8</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>F1B24EF3-EF05-428F-B3BE-0C7C830F73D8.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Purchases project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Purchases</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Purchases</string>
-			<key>timeStartedRecording</key>
-			<real>595644295.30444598</real>
-			<key>timeStoppedRecording</key>
-			<real>595644303.74563205</real>
-			<key>title</key>
-			<string>Build Purchases</string>
-			<key>uniqueIdentifier</key>
-			<string>F1B24EF3-EF05-428F-B3BE-0C7C830F73D8</string>
+			<string>049858E8-5854-4A55-ACFF-E7F2A01D4F75</string>
 		</dict>
 	</dict>
 </dict>
